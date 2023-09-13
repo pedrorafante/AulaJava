@@ -7,10 +7,10 @@ public class Exercicio2 {
     dos números 4, 5 e 6. A soma das duas médias. A média das médias.
      */
     public static void main(String[] args) {
-        float media1 = (8 + 9 + 7)/3;
-        float media2 = (4 + 5 + 6)/3;
+        float media1 = (8 + 9 + 7) / 3;
+        float media2 = (4 + 5 + 6) / 3;
         float soma = media2 + media1;
-        float media3 = soma/2;
+        float media3 = soma / 2;
 
         System.out.println("Media 1: " + media1);
         System.out.println("Media 2: " + media2);

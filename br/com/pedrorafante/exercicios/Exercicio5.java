@@ -16,7 +16,7 @@ public class Exercicio5 {
         System.out.println("Informe o valor do salario do usuário:");
         float salarioUsuario = in.nextFloat();
 
-        float qtdSalarios = salarioUsuario/salarioMinimo;
+        float qtdSalarios = salarioUsuario / salarioMinimo;
 
         System.out.println("A quantidade de salario que o usuario ganha referente ao salario minimo é:" + qtdSalarios);
     }

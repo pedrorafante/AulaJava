@@ -28,9 +28,9 @@ public class Exercicio4 {
         int qtdPeca2 = in.nextInt();
         float valorPeca2 = in.nextFloat();
 
-        float valorTotal = ((valorPeca1*qtdPeca1)+(valorPeca2*qtdPeca2))*(valorIPI/100 +1);
+        float valorTotal = ((valorPeca1 * qtdPeca1) + (valorPeca2 * qtdPeca2)) * (valorIPI / 100 + 1);
 
-        System.out.println("O valor total é: "+ valorTotal);
+        System.out.println("O valor total é: " + valorTotal);
 
     }
 }
